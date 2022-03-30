@@ -1,6 +1,6 @@
 
 
-## Ola, eu sou a Daniel Pessoa Schmockel, criadora de conteúdo de programação e tecnologia!
+## Ola, eu sou a Daniel Pessoa Schmockel, estudante de programação e determinado a encontrar oportunidades de botar este conhecimento em prática!
 <div align="center">
   <a href="https://github.com/Schmockel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schmockel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
