@@ -43,7 +43,7 @@
 |--|--|--|--|--|
  
 
-  **Gosto de briancar no/em/com**
+  **Gosto de brincar no/em/com**
 
 <img title="Photoshop" alt="Photo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
